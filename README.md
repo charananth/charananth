@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Charisma 👋
 
-<!--
-**charananth/charananth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS in Healthcare Data Science · USC  
+Data scientist with a background in software engineering and biotechnology.  
+I build ML pipelines, analytical dashboards, and data-driven tools for healthcare and business.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+`Python` `SQL` `scikit-learn` `Pandas` `FastAPI` `Tableau` `SAS` `AWS EC2`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- **[Retail Sales Dashboard](https://github.com/charananth/retail-sales-dashboard)** — SQL + Python analysis of Superstore data; regional trends and discount impact on profit
+- **[COVID-19 & Music Consumption](https://github.com/charananth/DSCI510)** — ETL pipeline and analysis of how streaming behavior shifted during the pandemic
+- **[NHANES Health Data Analysis](https://github.com/charananth/PM511A)** — Preliminary and comprehensive analysis of 2015–2016 National Health and Nutrition Examination Survey data using SAS
+- **DSCI 552 ML Project** — Available upon request
+
+## 📫 Connect
+[LinkedIn](https://linkedin.com/in/charananth)
