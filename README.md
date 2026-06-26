@@ -1,6 +1,6 @@
 # Hi, I'm Charisma 👋
 
-M.S. Data Science · USC (Price School of Public Policy & Viterbi School of Engineering)  
+M.S. Data Science · USC (Viterbi School of Engineering)  
 Data scientist with a background in software engineering and biotechnology.  
 I build large-scale ML pipelines, clinical decision support tools, and data-driven systems where the output actually changes a decision.
 
